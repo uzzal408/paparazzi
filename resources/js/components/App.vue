@@ -1,6 +1,6 @@
 <template>
     <div>
-        Content form component test 23
+        <div class="w-32 h-32 bg-blue-500 rounded-full"></div>
     </div>
 </template>
 <script>

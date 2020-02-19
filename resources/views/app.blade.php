@@ -10,7 +10,7 @@
         <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 
     </head>
-    <body>
+    <body class="h-screen flex bg-gray-200 text-gray-500 items-center justify-center">
     <div id="app">
 
     </div>
